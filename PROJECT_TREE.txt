@@ -1,0 +1,17 @@
+universal_it_health_security/
+├── app/
+│   ├── collectors/
+│   │   ├── system_info.py
+│   │   ├── health.py
+│   │   ├── network.py
+│   │   └── logs.py
+│   ├── services/
+│   │   └── remediation.py
+│   ├── scanner.py
+│   ├── server.py
+│   └── cli.py
+├── tests/
+├── docs/
+├── reports/
+├── requirements.txt
+└── README.md
